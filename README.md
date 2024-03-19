@@ -83,7 +83,7 @@ remote_theme: jekyll/minima
 > **COMMIT**
 > **PUSH**
 
-### 6: Add a workspace shared `.gitconfig``
+## 6: Add a workspace shared `.gitconfig``
 
 In the devcontainer add:
 
