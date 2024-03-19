@@ -211,7 +211,7 @@ VS Code see's your `.devcontainer` file and offers you to "Reopen in Container".
 > [!CAUTION]
 > It will fail on a Mac with an M1 or M2 processor
 
-## 10: Add a docker file you trust
+## 10: Add a docker file you repo
 
 Add a `dockerfile` in the root of the repo
 
